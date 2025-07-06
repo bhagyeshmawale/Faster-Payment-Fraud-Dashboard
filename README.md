@@ -1,5 +1,6 @@
 # 💸 Fast Payment Fraud Detection Dashboard
 https://faster-payment-fraud-dashboard.streamlit.app/
+
 This interactive dashboard analyzes synthetic **Faster Payments** transaction data to detect fraud trends, assess rule effectiveness, and improve operational prioritization. Built using **Streamlit**, **Plotly**, and **Pandas**, it enables fraud analysts and data teams to visually monitor fraud KPIs and optimize alert strategies.
 
 ---
