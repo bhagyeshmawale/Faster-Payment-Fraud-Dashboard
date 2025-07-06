@@ -8,3 +8,5 @@ langchain-community
 streamlit
 pandas
 plotly
+openpyxl
+requests
