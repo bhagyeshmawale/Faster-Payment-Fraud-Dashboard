@@ -5,3 +5,6 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+streamlit
+pandas
+plotly
